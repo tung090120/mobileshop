@@ -1,11 +1,11 @@
 # mobileshop - 2020 project
 ## labmobileshop 
 - vulns : 
-  + xss - sqli - upload file
+  - xss - sqli - upload file
 ## shopfilter
 - filter :
-  + xss - sqli - upload file
+  - xss - sqli - upload file
 - add function:
-  +FAQ
+  - FAQ
 - vulns :
-  +LFI - session reconnaissance
+  - LFI - session reconnaissance
